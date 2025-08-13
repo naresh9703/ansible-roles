@@ -1,4 +1,3 @@
-
 - name: configuring mongodb server
   hosts: mongodb
   become: yes
