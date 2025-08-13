@@ -2,13 +2,11 @@
   include_role:
     name: common
     tasks_from: app-setup
-    
+
 - name: nodejs setup
-  include_roles:
+  include_role:
     name: common
     tasks_from: nodejs
-
-
 
 - name: copy mongodb repo
   ansible.builtin.copy:
