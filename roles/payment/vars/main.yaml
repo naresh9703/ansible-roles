@@ -1,0 +1,5 @@
+CART_HOST: cart.nareshveeranala.shop
+USER_HOST: user.nareshveeranala.shop
+RABBITMQ_HOST: rabbitmq.nareshveeranala.shop
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
