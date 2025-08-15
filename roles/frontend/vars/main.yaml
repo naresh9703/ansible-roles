@@ -1,3 +1,5 @@
 CATALOGUE_HOST: catalogue.nareshveeranala.shop
 USER_HOST: user.nareshveeranala.shop
 CART_HOST: cart.nareshveeranala.shop
+SHIPPING_HOST: shipping.nareshveeranala.shop
+PAYMENT_HOST: payment.nareshveeranala.shop
